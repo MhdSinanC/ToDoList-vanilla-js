@@ -61,7 +61,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-## Contact
-
-Created by \[MhdSinanC] - feel free to reach out for any questions!
-
