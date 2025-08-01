@@ -115,12 +115,12 @@ hr {
 
 
 /* responsiveness added for small screens */
-@media (max-width: 320px) {
+@media (max-width: 352px) {
 
    .container {
-    padding: 1rem 1.4rem;
+    padding: 1rem 2rem;
    }
-
+   
    
 }
 
