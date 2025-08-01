@@ -1,4 +1,4 @@
-````markdown
+
 # To-Do List App
 
 A simple To-Do list application built using HTML, CSS, and JavaScript. The app allows you to add tasks, mark them as completed, delete individual tasks, and clear all tasks. The tasks are saved in the browser's `localStorage`, meaning your tasks persist even after you refresh the page.
@@ -49,7 +49,7 @@ A simple To-Do list application built using HTML, CSS, and JavaScript. The app a
 
 ## Demo
 
-You can view a live demo of this project here: [link to demo (if applicable)](https://example.com).
+You can view a live demo of this project here: [https://to-do-list-vanilla-js-pi.vercel.app/].
 
 ## Contributing
 
@@ -65,4 +65,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 Created by \[MhdSinanC] - feel free to reach out for any questions!
 
-```
