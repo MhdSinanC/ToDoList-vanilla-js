@@ -19,12 +19,19 @@ body {
     overflow: hidden;
 }
 
+form {
+    display: flex;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
+}
 
 form .todoInput {
     height: 2rem;
     font-size: 1rem;
     border: 0.5px solid rgb(133, 130, 130);
     border-radius: 0.3rem;
+    flex: 1;
+    min-width: 0;
 }
 
 form .btn {
@@ -34,6 +41,7 @@ form .btn {
     border: none;
     background-color: rgb(0, 110, 255);
     color: white;
+    white-space: nowrap;
 }
 
 form .btn:hover {
@@ -117,11 +125,11 @@ hr {
 /* responsiveness added for small screens */
 @media (max-width: 352px) {
 
-   .container {
-    padding: 1rem 1.9rem;
-   }
-   
-   
+    .container {
+        padding: 1rem 1.9rem;
+    }
+
+
 }
 
 
