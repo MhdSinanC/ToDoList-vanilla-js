@@ -87,7 +87,7 @@ const addTodo = (input) => {
     displayDiv.appendChild(wrapper);
 
     input.value = '';       // Clear input field
-
+    input.blur();
     // Save the new todo to localStorage
     saveTodoLocal(label.innerText, checkbox.checked);
 }
